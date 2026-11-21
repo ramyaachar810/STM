@@ -1,0 +1,6 @@
+Student Management System
+
+
+Name:Ramya.I
+USN:26UG4GWCS0192
+Department:CSE
